@@ -1,2 +1,2 @@
 # 30-days-java-oop
-This repo includes 30 questions and solutions for JAVA Object Oriented Programming Practice
+- This repo includes 30 solutions for 30 daily Questions in JAVA.  You can find the questions on [this site](https://jovial-brahmagupta-811a8f.netlify.app/)
