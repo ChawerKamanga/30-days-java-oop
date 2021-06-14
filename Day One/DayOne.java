@@ -1,5 +1,3 @@
-package com.java30days;
-
 interface Herbivore {
     void eatGrass();
 }
