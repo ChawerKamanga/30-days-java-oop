@@ -62,9 +62,7 @@ public class DayFive {
 
         int result = dayFive.binarySearch(target);
 
-        if (result == -1) {
-            System.out.println("Number is not found");
-        } else {
+        if (result != -1) {
             System.out.println("Number is found at index " + result);
         }
 
