@@ -75,7 +75,7 @@ public class DaySix {
 
             System.out.println();
 
-            System.out.println("Choose a number from the above list to return their actual positions");
+            System.out.println("Choose a number from the above list to know if it is found");
 
             // store the user input in target
             target = scanner.nextInt();
